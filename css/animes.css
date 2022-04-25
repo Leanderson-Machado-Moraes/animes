@@ -19,7 +19,7 @@ body {
 
 .box {
     width: 80vw;
-    height: 100vh;
+    height: 80vh;
     margin: 20px;
     cursor: pointer;
 
@@ -49,3 +49,6 @@ body {
 .boximg{
     margin-top: 10px;
 }
+
+
+    
