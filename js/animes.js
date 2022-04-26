@@ -35,3 +35,21 @@ im6.addEventListener('click', () => {
     som6.src = "./soundtrack/BNPAUDIO.mpeg"
     som6.play()
 })
+im1.addEventListener('dbclick', () => {
+    som1.pause()
+})
+im2.addEventListener('dbclick', () => {
+    som2.pause()
+})
+im3.addEventListener('dbclick', () => {
+    som3.pause()
+})
+im4.addEventListener('dbclick', () => {
+    som4.pause()
+})
+im5.addEventListener('dbclick', () => {
+    som5.pause()
+})
+im6.addEventListener('dbclick', () => {
+    som6.pause()
+})
