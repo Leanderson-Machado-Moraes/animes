@@ -32,24 +32,24 @@ im5.addEventListener('click', () => {
     som5.play()
 })
 im6.addEventListener('click', () => {
-    som6.src = "./soundtrack/BNPAUDIO.mpeg"
+    som6.src = "./soundtrack/BNPAUDIO.mp3"
     som6.play()
 })
-im1.addEventListener('dbclick', () => {
+im1.addEventListener('dblclick', () => {
     som1.pause()
 })
-im2.addEventListener('dbclick', () => {
+im2.addEventListener('dblclick', () => {
     som2.pause()
 })
-im3.addEventListener('dbclick', () => {
+im3.addEventListener('dblclick', () => {
     som3.pause()
 })
-im4.addEventListener('dbclick', () => {
+im4.addEventListener('dblclick', () => {
     som4.pause()
 })
-im5.addEventListener('dbclick', () => {
+im5.addEventListener('dblclick', () => {
     som5.pause()
 })
-im6.addEventListener('dbclick', () => {
+im6.addEventListener('dblclick', () => {
     som6.pause()
 })
